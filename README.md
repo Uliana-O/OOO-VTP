@@ -1,6 +1,6 @@
 ## ООО Вот такие пироги
 
-![] https://github.com/Uliana-O/OOO-VTP/blob/master/eb6af8c211e30ebff677d1f864adc425.jpg
+![фото](https://github.com/Uliana-O/OOO-VTP/blob/master/eb6af8c211e30ebff677d1f864adc425.jpg)
 
 ###  Почему выбирают нас?
 
