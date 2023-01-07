@@ -1,6 +1,6 @@
 ## ООО Вот такие пироги
 
-![пироги лого] https://github.com/Uliana-O/OOO-VTP/blob/master/eb6af8c211e30ebff677d1f864adc425.jpg
+![] https://github.com/Uliana-O/OOO-VTP/blob/master/eb6af8c211e30ebff677d1f864adc425.jpg
 
 ###  Почему выбирают нас?
 
@@ -12,6 +12,7 @@
 ## Наши контакты:
 
 г.Бумагогорск, ул.Где-то там, д. 4
+
 тел. 999-991-990
 
 Будем вам рады!
